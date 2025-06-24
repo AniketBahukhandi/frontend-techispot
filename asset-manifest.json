@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AniketBahukhandi/frontend-techispot/static/css/main.87ef320e.css",
+    "main.js": "/AniketBahukhandi/frontend-techispot/static/js/main.cc0583ca.js",
+    "static/js/453.d855a71b.chunk.js": "/AniketBahukhandi/frontend-techispot/static/js/453.d855a71b.chunk.js",
+    "static/media/github.png": "/AniketBahukhandi/frontend-techispot/static/media/github.b59201ef2ff446316717.png",
+    "index.html": "/AniketBahukhandi/frontend-techispot/index.html",
+    "main.87ef320e.css.map": "/AniketBahukhandi/frontend-techispot/static/css/main.87ef320e.css.map",
+    "main.cc0583ca.js.map": "/AniketBahukhandi/frontend-techispot/static/js/main.cc0583ca.js.map",
+    "453.d855a71b.chunk.js.map": "/AniketBahukhandi/frontend-techispot/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ef320e.css",
+    "static/js/main.cc0583ca.js"
+  ]
+}
