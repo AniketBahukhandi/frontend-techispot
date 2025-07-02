@@ -1,11 +1,10 @@
 import React from "react";
 import styles from "./Community.module.css";
-import dataCommunity from "./Community_Data"; 
 
-export default function Communities() {
+export default function Communities({ communities }) {
   return (
     <div className={styles.card}>
-      {dataCommunity.map((group, index) => (
+      {communities.map((group, index) => (
         <div className={styles.info} key={index}>
           <img src={group.pro} className={styles.img} alt="Community_Pic" />
           <div className={styles.data}>

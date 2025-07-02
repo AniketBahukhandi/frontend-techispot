@@ -1,3 +1,21 @@
+.logoIcon {
+  width: 32px;
+  height: 32px;
+  margin-right: 8px;
+}
+
+.navIcon {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+.profilePic {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
 .navbar {
   display: flex;
   justify-content: space-between;
